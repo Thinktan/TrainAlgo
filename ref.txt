@@ -1,0 +1,10 @@
+
+# ref
+
+## 最长公共子序列和子串
+https://blog.csdn.net/so_geili/article/details/53737001
+https://zhuanlan.zhihu.com/p/311598413
+https://alanlee.fun/2020/04/07/understanding-lcs/
+
+
+
