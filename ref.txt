@@ -7,4 +7,5 @@ https://zhuanlan.zhihu.com/p/311598413
 https://alanlee.fun/2020/04/07/understanding-lcs/
 
 
-
+## 动态时间规整
+https://zhuanlan.zhihu.com/p/32849741
