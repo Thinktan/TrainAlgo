@@ -9,3 +9,7 @@ https://alanlee.fun/2020/04/07/understanding-lcs/
 
 ## 动态时间规整
 https://zhuanlan.zhihu.com/p/32849741
+
+## 局部敏感哈希与抽屉原理检索
+https://ansvver.github.io/lsh_simhash.html
+https://juejin.cn/post/7206604884056932389
